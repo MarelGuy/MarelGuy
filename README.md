@@ -29,9 +29,8 @@ module.exports = app
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marelguy&show_icons=true&theme=radical)
 
  ### On what am i working on?
- - Currently doing a clone of [scpwiki.com](http://scpwiki.com)
  - Trying to improve my newbie python skills
- - Playing Tom's Clancy: Ghost Recon Wildlands
+ - Improving my Persona 5 Skills
 
 <h3> Where can you find me?</h3>
 
