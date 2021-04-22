@@ -29,7 +29,7 @@ module.exports = app
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marelguy&show_icons=true&theme=radical)
 
  ### On what am i working on?
- - Trying to improve my newbie python skills
+ - Developing a discord bot
  - Improving my Persona 5 Skills
 
 <h3> Where can you find me?</h3>
