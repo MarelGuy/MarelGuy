@@ -31,6 +31,7 @@ module.exports = app
  ### On what am i working on?
  - Developing a discord bot
  - Improving my Persona 5 Skills
+ - Trying to destroy humanity on Plauge Evolution Inc.
 
 <h3> Where can you find me?</h3>
 
