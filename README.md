@@ -29,9 +29,10 @@ module.exports = app
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marelguy&show_icons=true&theme=radical)
 
  ### On what am i working on?
- - Developing a discord bot
- - Improving my Persona 5 Skills
- - Trying to destroy humanity on Plauge Evolution Inc.
+ - Developing FantaGomma
+ - Still trying to destroy humanity on Plauge Evolution Inc.
+ - Making friends on VRchat
+ - IRL school
 
 <h3> Where can you find me?</h3>
 
