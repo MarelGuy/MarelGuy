@@ -5,18 +5,17 @@
 ```Node
 const app = require("express").Router()
 
-app.get("/Info", async (req, res, next) =>{
-	try{
+app.get("/info", async (req, res, next) =>{
+	try {
 		const sendInfo = {
 			"Nickname": "Marel",
 			"Languages": ["NodeJS", "TypeScript", "ReactJS", "HTML", "CSS", "Python"]
 			"Description": "I'm Loris, and I work as a MERN Stack developer.
 			Started years ago with some C++ I then abandoned coding.
-			I started another time 9 months ago thanks to Strive School"
+			I started another time an year ago thanks to Strive School."
 		};
-		res.status(200)send(sendInfo);
+		res.status(200).send(sendInfo);
 	} catch (err) {
-		console.log(err);
 		next(err);
 	}
 });
