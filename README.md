@@ -26,8 +26,9 @@
 		- Team worker: I try my best to work as much as possible with the team members troughout the whole project.
 
 	- ### What are my cons?
-		- Honesty: I may a little bit too honest sometimes.
-		- Off topic: If I'm bored, I tend to go off topic on some things.
+		- Honesty: I may a little bit too honest sometimes;
+		- Off topic: If I'm bored, I tend to go off topic on some things;
+		- Bad immagination: I tend to follow other people's style, somehow, I can't come up with good ones.
 
 	- ### Where can you find me?
 		 - [Email](mailto:irertnuc.loris@gmail.com)
