@@ -50,6 +50,9 @@
 		 - NEXT.js;
 		 - React Redux;
 		 - Phaser.js.
-	 - Currently learning:
-		 - Rust;
-		 - Compiler theory.
+
+- ## Programming languages
+	 - Javascript/NodeJS;
+	 - Rust;
+	 - C++;
+	 - Java.
