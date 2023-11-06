@@ -8,7 +8,7 @@
 
 	- ### What am I doing right now?
 		- Right now I'm currently studying the [Rust](https://www.rust-lang.org "the Rust programming language") programming language along by creating a programming language called Jay! At the time of the writing of this document, it is still on very early stages;
-		- I'm trying to obtain a certification in the English langauge, as you might read, I do speak English pretty fluently, but I guess that this alone won't get me somewhere;
+		- I'm trying to obtain a certification in the English language, as you might read, I do speak English pretty fluently, but I guess that this alone won't get me somewhere;
 		- Playing Videogames! I really love the whole gaming scene, both single and multi player.
 
 	- ### What do i like?
